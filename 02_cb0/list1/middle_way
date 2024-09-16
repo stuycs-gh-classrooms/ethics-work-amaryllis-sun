@@ -1,0 +1,4 @@
+def middle_way(a, b):
+  firstNum = a[1]
+  secondNum = b[1]
+  return [firstNum, secondNum]
