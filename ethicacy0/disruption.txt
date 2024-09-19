@@ -1,8 +1,7 @@
-Pro-Disruption
-
 Columbia Business School - “Business disruption happens when an existing industry faces a challenger that offers far greater value to the customer in a way that existing firms cannot compete with directly”
 
 Was heavily inspired by Clayton Christensen’s The Innovator’s Dilemma
+Some people claim that because he was a Harvard Business School professor, people blindly follow what he says 
 
 Examples of “Disruptive” Companies:
 Uber
@@ -24,4 +23,7 @@ Counterclaims:
 So much disruption can “blow up” an industry and lead to more harm rather than benefit
 Response: “Successful disruptors might break old models, but they build better ones that benefit us all, which is why we embrace, rather than fear them.”
 
-https://docs.google.com/document/d/1v1oe3xOSF4275N0pb26oH75fV9XoCgBdcPUqeDT4CSE/edit
+
+The term “disruption” as a business model was first coined by Clayton Christensen’s The Innovator’s Dilemma. In it, he explains disruption as a product that creates a new market, disrupts an existing market, and replaces an existing product. As noted, some examples of these products are Uber, which forced the taxi industry to improve their quality standards while making it more convenient for customers to use, and Tesla, which released its patent holdings to promote open-source innovation.
+
+Looking at disruption from a business perspective, these companies are wildly successful today, with Uber stock prices having risen 132.27% and Tesla stock prices having risen 1,419.49% in the past 5 years. It seems to make sense: when customers are introduced to a new, appealing (and sometimes cheaper) product that defies their traditional expectations, they’ll be interested. It may redefine 
